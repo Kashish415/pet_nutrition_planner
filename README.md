@@ -5,7 +5,7 @@ This project is a simple, rule-based system that generates pet nutrition recomme
 
 ## Approach
 
-**Rule-based approach:**
+**Rule-based approach**
 
 Each recommendation is derived from clearly defined rules based on:
 - Pet type
