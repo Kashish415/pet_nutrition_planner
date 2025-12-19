@@ -1,7 +1,7 @@
 # Pet Nutrition Planner
 
 ## Overview
-This project is a simple, rule-based system that generates pet nutrition recommendationS based on basic pet information and functional logic.  
+This project is a simple, rule-based system that generates pet nutrition recommendations based on basic pet information and functional logic.  
 
 ## Approach
 
