@@ -20,7 +20,8 @@ This project implements a nutrition recommendation system for pets.
    `pip install -r requirements.txt`
 
 4. Create your `.env` file. ( refer the `.env.example`)
+   
    Add your Gemini API key
 
-5. Run the project  
+6. Run the project  
    `python main.py`
