@@ -44,7 +44,7 @@ The output is displayed directly in the terminal as a structured nutrition plan.
 ## Assumptions
 - The pet does not have any serious medical conditions.
 - Recommendations are general and based on common pet nutrition guidelines.
-- The rules are heuristic-based and not learned from real-world datasets
+- The rules are purely heuristic-based and not learned from real-world datasets.
 
 
 ## How to Run
