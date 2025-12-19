@@ -16,7 +16,6 @@ This project implements a nutrition recommendation system for pets.
 ## How to Run
 1. Clone the repository
 2. Navigate to the project folder
-<<<<<<< HEAD
 3. Install dependencies  
    `pip install -r requirements.txt`
 
