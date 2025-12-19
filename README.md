@@ -53,5 +53,3 @@ The output is displayed directly in the terminal as a structured nutrition plan.
 
 ```bash
 python planner.py
-
-
