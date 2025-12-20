@@ -20,7 +20,7 @@ if __name__ == "__main__":
     time.sleep(0.6)
 
     print("Calculating baseline nutrition needs...")
-    pet_context = build_pet_context(pet)
+    pet_context = build_pet_context(pet)     # from planner.py
     time.sleep(0.6)
 
     print("Generating final recommendations...\n")
