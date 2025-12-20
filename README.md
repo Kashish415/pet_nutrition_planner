@@ -11,16 +11,16 @@ This project uses a hybrid approach:
 
 1. A rule-based system is used only to:
 
-- Categorize the pet (age group, weight category)
-- Estimate baseline daily calories 
-- Declare unsafe foods
+  - Categorize the pet (age group, weight category)
+  - Estimate baseline daily calories 
+  - Declare unsafe foods
 
 2. A Large Language Model (Gemini) is then used to:
 
-- Reason over the structured information
-- Prioritize factors like age, activity level, weight and allergies
-- Resolve conflicts (for example: senior age but high activity)
-- Explain why a particular recommendation is made to the pet owner
+  - Reason over the structured information
+  - Prioritize factors like age, activity level, weight and allergies
+  - Resolve conflicts (for example: senior age but high activity)
+  - Explain why a particular recommendation is made to the pet owner
 
 ## Workflow
 
