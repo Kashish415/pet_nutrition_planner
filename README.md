@@ -1,7 +1,6 @@
 # Pet Nutrition Planner
 
 ## Overview
-
 This project implements a nutrition recommendation system for pets. It takes basic pet details and generates a clear, explainable nutrition plan.
 
 The goal is to show how structured logic and an AI model can work together to produce sensible output recommendations.
@@ -9,7 +8,6 @@ The goal is to show how structured logic and an AI model can work together to pr
 ---
 
 ## Approach
-
 This project uses a hybrid approach:
 
 **Rule-based System:**
@@ -26,7 +24,6 @@ This project uses a hybrid approach:
 ---
 
 ## Workflow
-
 1. The user enters pet details (type, breed, age, weight, activity, allergies)
 2. Rule-based logic calculates baseline nutrition values
 3. Structured pet context is passed to the LLM
@@ -36,21 +33,18 @@ This project uses a hybrid approach:
 ---
 
 ## Assumptions
-
 - Calorie estimation is based on a standard RER formula: `RER = 70 × (body weight in kg)^0.75`
 - Recommendations are general and assistive in nature
 
 ---
 
 ## Tools Used
-
 - Python (version 3.9 or higher)
 - Google Gemini (via google-genai)
 
 ---
 
 ## How to Run
-
 1. Clone the repository
 2. Navigate to the project folder
 3. Install dependencies:
