@@ -32,7 +32,7 @@ This project uses a hybrid approach:
 
 ## Assumptions
 
-1. Calorie estimation is based on a standard RER formula.
+1. Calorie estimation is based on a standard RER formula. ( RER = 70 × (body weight in kg) ^ 0.75)
 2. Recommendations are general and assistive in nature.
 
 ## Tools Used
